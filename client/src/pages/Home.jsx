@@ -1,11 +1,21 @@
 import React from 'react'
+import Navbar from '../components/Navbar'
+import Hero from '../components/Hero'
+import AiTools from '../components/AiTools'
+import Testimonial from '../components/Testimonial'
+import Plans from '../components/Plans'
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
-    <div>
-      <h1>Home</h1>
-      
-    </div>
+    <>
+    <Navbar/>
+    <Hero/>
+    <AiTools/>
+    <Testimonial/>
+    <Plans/>
+    <Footer/>
+    </>
   )
 }
 
