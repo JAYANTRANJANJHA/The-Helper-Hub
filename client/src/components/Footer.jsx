@@ -36,7 +36,7 @@ Streamline any task with our unified suite of smart tools. From AI assistance to
                 </div>
             </div>
             <p className="pt-4 text-center text-xs md:text-sm pb-5">
-                Copyright 2024 © <a href="">JRJ</a>. All Right Reserved.
+                Copyright 2024 © <a href="https://github.com/JAYANTRANJANJHA/The-Helper-Hub.git ">JRJ</a>. All Right Reserved.
             </p>
         </footer> 
       
