@@ -36,7 +36,7 @@
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **Auth** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white) |
+| **Auth** | ![Clerk](https://img.shields.io/badge/Clerk-5A67D8?style=flat&logo=clerk&logoColor=white) |
 
 </details>
 
@@ -53,46 +53,50 @@ The-Helper-Hub/
 
 
 
-🏁 Getting Started
-Prerequisites
-Node.js (v18.x recommended)
+## 🏁 Getting Started
 
-npm or yarn
+### Prerequisites
 
-Quick Setup
-Clone & Enter
+- Node.js (v18.x recommended)
+- npm or yarn
 
-Bash
+### Quick Setup
 
-git clone [https://github.com/JAYANTRANJANJHA/The-Helper-Hub.git](https://github.com/JAYANTRANJANJHA/The-Helper-Hub.git) && cd The-Helper-Hub
-Install & Run (Frontend)
+Clone and enter the repository:
 
-Bash
+```bash
+git clone https://github.com/JAYANTRANJANJHA/The-Helper-Hub.git
+cd The-Helper-Hub
+```
 
+### Install & Run (Frontend)
+
+```bash
 cd client
 npm install
 npm run dev
-Install & Run (Backend)
+```
 
-Bash
+### Install & Run (Backend)
 
+```bash
 cd ../server
 npm install
 npm start
-🤝 Contributing
+```
+
+### Contributing
+
 We love contributions! Follow these steps to get started:
 
-Fork the repository.
+1. Fork the repository.
+2. Clone your fork.
+3. Branch out: `git checkout -b feature/AmazingFeature`.
+4. Commit your changes.
+5. Push and open a Pull Request.
 
-Clone your fork.
+### Author
 
-Branch out (git checkout -b feature/AmazingFeature).
-
-Commit your changes.
-
-Push and open a Pull Request.
-
-👤 Author
 Jayant Ranjan Jha
 
 GitHub: @JAYANTRANJANJHA
