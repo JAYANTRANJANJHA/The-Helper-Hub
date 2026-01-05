@@ -1,12 +1,67 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# The Helper Hub - Client
 
-Currently, two official plugins are available:
+A modern, feature-rich web application built with **React** and **Vite** for AI-powered productivity tools.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **AI Tools Suite** - Access multiple AI-powered utilities
+- **Image Generation** - Generate stunning images with AI
+- **Background Removal** - Remove backgrounds from images
+- **Object Removal** - Remove unwanted objects from photos
+- **Article Writing** - AI-assisted article creation
+- **Resume Review** - Get AI feedback on your resume
+- **Community** - Connect with other users
+- **Blog** - Browse curated blog titles
+- **Dashboard** - Manage your projects and activities
+- **Responsive Design** - Works seamlessly on all devices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📋 Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn package manager
+
+## 🔧 Installation
+
+```bash
+# Clone the repository
+git clone <repository-url>
+
+# Navigate to client directory
+cd client
+
+# Install dependencies
+npm install
+
+# Create .env file with your API keys
+cp .env.example .env
+```
+
+## ▶️ Running the Application
+
+```bash
+# Development server
+npm run dev
+
+# Build for production
+npm build
+
+# Preview production build
+npm preview
+```
+
+## 📁 Project Structure
+
+- **src/components/** - Reusable UI components
+- **src/pages/** - Page components and routes
+- **src/assets/** - Images, icons, and static files
+- **public/** - Static assets
+
+## 🛠️ Tech Stack
+
+- React 18
+- Vite
+- ESLint
+- Modern CSS
+
+
