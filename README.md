@@ -50,3 +50,51 @@ The-Helper-Hub/
 ├── server/           # Node.js + Express Backend
 ├── public/           # Static assets
 └── .env.example      # Environment variables template
+
+
+
+🏁 Getting Started
+Prerequisites
+Node.js (v18.x recommended)
+
+npm or yarn
+
+Quick Setup
+Clone & Enter
+
+Bash
+
+git clone [https://github.com/JAYANTRANJANJHA/The-Helper-Hub.git](https://github.com/JAYANTRANJANJHA/The-Helper-Hub.git) && cd The-Helper-Hub
+Install & Run (Frontend)
+
+Bash
+
+cd client
+npm install
+npm run dev
+Install & Run (Backend)
+
+Bash
+
+cd ../server
+npm install
+npm start
+🤝 Contributing
+We love contributions! Follow these steps to get started:
+
+Fork the repository.
+
+Clone your fork.
+
+Branch out (git checkout -b feature/AmazingFeature).
+
+Commit your changes.
+
+Push and open a Pull Request.
+
+👤 Author
+Jayant Ranjan Jha
+
+GitHub: @JAYANTRANJANJHA
+
+<p align="center"> Give a ⭐️ if this project helped you! </p>
