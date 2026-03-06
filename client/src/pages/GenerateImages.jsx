@@ -24,7 +24,7 @@ const GenerateImages = () => {
           <h1 className='text-xl font-semibold'>AI Image Generator</h1>
         </div>
 
-        <p className='mt-6 text-sm font-medium'>KeyWord</p>
+        <p className='mt-6 text-sm font-medium'>Describe your Image</p>
 
         <textarea onChange={(e) => setInput(e.target.value)} value={input} rows={4}  className='w-full p-2 px-3 mt-2 outline-none text-sm rounded-md border border-gray-300 ' placeholder='Describe the image you want to create' required />
 
